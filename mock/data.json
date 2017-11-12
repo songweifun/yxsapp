@@ -1,0 +1,65 @@
+{
+    "quotes":[
+        {
+            "id":"0",
+            "cn":"我突然就觉得自己像个华丽的木偶，演尽了所有的悲欢离合，可是背上总是有无数闪亮的银色丝线，操纵我哪怕一举手一投足。",
+            "en":"I suddenly feel myself like a doll, acting all kinds of joys and sorrows. There are lots of shining silvery thread on my back,controlling all my action.",
+            "pic":"/assets/img/quotes/0.jpg"
+        },
+        {
+            "id":"1",
+            "cn":"有的人认为坚持会让我们变得更强大， 但有时候放手也会如此。",
+            "en":"Some of us think that holding on makes us strong but sometimes it is letting go.",
+            "pic":"/assets/img/quotes/1.jpg"
+        },
+        {
+            "id":"2",
+            "cn":"我认为如果生活给了你柠檬，你应该把它们做成柠檬汁。接下来去寻找那些拿到伏特加的人，然后开一个派对。",
+            "en":"I believe that if life gives you lemons, you should make lemonade...And try to find somebody whose life has given them vodka, and have a party.",
+            "pic":"/assets/img/quotes/2.jpg"
+        },
+        {
+            "id":"3",
+            "cn":"年轮的累加，并非意味着垂老；丢弃理想，才是真正意义的暮年。",
+            "en":"Nobody grows old merely by a number of years. We grow old by deserting our ideals.",
+            "pic":"/assets/img/quotes/3.jpg"
+        },
+        {
+            "id":"4",
+            "cn":"一个人并不是生来要给打败的，你尽可把他消灭掉，可就是打不败他。—《老人与海》",
+            "en":"But a man is not made for defeat. A man can be destroyed but not defeated. —The Old Man and the Sea",
+            "pic":"/assets/img/quotes/4.jpg"
+        } ,
+        {
+            "id":"5",
+            "cn":"天空可不会下玫瑰雨。想要更多的玫瑰花，我们就得栽下更多的树。 ------乔治·艾略特",
+            "en":"It will never rain roses. When we want to have more roses, we must plant more trees. -----George Eliot",
+            "pic":"/assets/img/quotes/5.jpg"
+        } ,
+        {
+            "id":"6",
+            "cn":"其实世事并无好坏，全看你们如何去想。 —— 《哈姆雷特》",
+            "en":"There is nothing either good or bad, but thinking makes it so. —The Tragedy of Hamlet",
+            "pic":"/assets/img/quotes/6.jpg"
+        } ,
+        {
+            "id":"7",
+            "cn":"不管你去往何方，不管将来迎接你的是什么天气，请你带着阳光般的心情启程。",
+            "en":"Wherever you go, no matter what the weather, always bring your own sunshine. -Anthony J.D'Angelo",
+            "pic":"/assets/img/quotes/7.jpg"
+        } ,
+        {
+            "id":"8",
+            "cn":"我不会只是苟延残喘。你会见证我再次冉冉直指蓝天。你说我不能留下我的诗篇，我却在不停跨越桎梏和界限。—《Rise》",
+            "en":"I won't just survive, Oh, you will see me thrive. Can't write my story, I'm beyond the archetype.",
+            "pic":"/assets/img/quotes/8.jpg"
+        } ,
+        {
+            "id":"9",
+            "cn":"如果你看到面前的阴影，别怕，那是因为你的背后有阳光。",
+            "en":"If you saw the darkness in front of you, don't be afraid, that's because sunshine is at your back.",
+            "pic":"/assets/img/quotes/9.jpg"
+        }
+        
+    ]
+}

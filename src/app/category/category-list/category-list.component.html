@@ -1,0 +1,13 @@
+<div class="container" [@listAnim]="categories?.length">
+  <app-category-item *ngFor="let category of categories" [item]="category" class="card"
+  (onEdit)="launchEditDialog(category)"
+  (onDel)="launchConfirmDialog(category)"
+  
+  >
+
+    
+  </app-category-item> 
+</div>
+<button md-fab type="button" (click)="openNewProjectDialog()" class="fab-button">
+  <md-icon>add</md-icon>
+</button>

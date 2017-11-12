@@ -1,0 +1,24 @@
+<md-nav-list > <!-- 为了使得鼠标移动上去有变化 可以改md-list 为 md-nav-list dense 为压缩列表-->
+  <h3 md-subheader>分类</h3> <!-- md-subheader给多段落的List一个标题 -->
+  <md-list-item [routerLink]="['/category']" (click)="onNavClick()" > <!-- 触发一个隐藏显示的事件 -->
+    <md-icon md-list-icon svgIcon="projects"></md-icon> <!-- md-list-icon 重新摆放图标 -->
+    <span md-line>分类首页</span> <!-- md-line item可以有多行 -->
+    <span md-line md-subheader>查看所有分类</span> <!-- 这个是关于上一行的描述 -->
+  </md-list-item>
+  <h3 md-subheader>日历</h3>
+  <md-list-item [routerLink]="['/tasklists']" (click)="onNavClick()" >
+    <md-icon md-list-icon svgIcon="month"></md-icon> 
+    <span md-line>月视图</span>
+    <span md-line md-subheader>按月查看您的任务</span> 
+  </md-list-item>
+  <md-list-item>
+      <md-icon md-list-icon svgIcon="week"></md-icon> 
+      <span md-line>周视图</span>
+      <span md-line md-subheader>按周查看您的任务</span> 
+  </md-list-item>
+  <md-list-item>
+    <md-icon md-list-icon [svgIcon]="today"></md-icon> 
+    <span md-line>日视图</span>
+    <span md-line md-subheader>按日查看您的任务</span> 
+  </md-list-item>
+</md-nav-list>

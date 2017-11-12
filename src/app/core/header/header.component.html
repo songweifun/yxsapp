@@ -1,0 +1,12 @@
+<md-toolbar color="primary" class="">
+  <button md-icon-button (click)="openSidebar()">
+    <md-icon>menu</md-icon>
+  </button>
+
+  
+  <!-- <md-icon svgIcon="gifts"></md-icon> -->
+  
+  <span>宝和研习社</span>
+  <span class="fill-remaining-space"></span>
+  <md-slide-toggle (change)="onChange($event.checked)">黑夜模式</md-slide-toggle><!-- 有一个对外暴露的事件change -->
+</md-toolbar>
